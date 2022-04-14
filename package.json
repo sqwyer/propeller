@@ -1,0 +1,18 @@
+{
+  "devDependencies": {
+    "typescript": "^4.6.3"
+  },
+  "name": "propeller",
+  "description": "A simple and open source project management library.",
+  "version": "0.0.1",
+  "main": "dist/mod.js",
+  "scripts": {
+    "compile": "tsc"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "uuid": "^8.3.2"
+  }
+}

@@ -1,0 +1,9 @@
+{
+    "compilerOptions": {
+        "noImplicitAny": false,
+        "module": "CommonJS",
+        "outDir": "dist",
+        "target": "ES2016",
+        "sourceMap": false
+    }
+}
